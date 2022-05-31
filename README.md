@@ -2,7 +2,7 @@
 
 ## Abstract
 
-a layered hash model for metadata in blockchain transaction
+a layered hash model for metadata of blockchain transaction
 
 
 
